@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MoviesApp](https://github.com/YasmineRico/moviesApp)
 
-- 🌱 I’m currently learning **Docker, MongoDB, Node.js, React**
+- 🌱 I’m currently learning **Docker, MongoDB, Node.js, React, Express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasmineRico](https://github.com/YasmineRico)
 
