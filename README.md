@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 <br> I'm Yasmine Rico</h1>
+<h1 align="center">Hi there 👋 <br> I'm Yasmine Rico 🦋✨</h1>
 <h3 align="center">A passionate Full Stack Developer from San Antonio, Texas</h3>
 
 - 🔭 I’m currently working on [Learning-Node.js](https://github.com/YasmineRico/Learning-Node.js)
