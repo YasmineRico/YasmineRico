@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 <br> I'm Yasmine Rico</h1>
 <h3 align="center">A passionate Full Stack Developer from San Antonio, Texas</h3>
 
-- 🔭 I’m currently working on [MoviesApp](https://github.com/YasmineRico/moviesApp)
+- 🔭 I’m currently working on [Docker-Practice](https://github.com/YasmineRico/Docker-Practice)
 
 - 🌱 I’m currently learning **Docker, MongoDB, Node.js, React, Express**
 
