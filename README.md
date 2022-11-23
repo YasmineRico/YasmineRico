@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 <br> I'm Yasmine Rico 🦋✨</h1>
+<h1 align="center">Hi there 👋🏽 <br> I'm Yasmine Rico 🦋✨</h1>
 <h3 align="center">A passionate Full Stack Developer from San Antonio, Texas</h3>
 
 - 🔭 I’m currently working on [Learning-Node.js](https://github.com/YasmineRico/Learning-Node.js)
 
 - 🌱 I’m currently learning **Docker, MongoDB, Node.js, React, Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/YasmineRico](https://github.com/YasmineRico)
+- 👩🏽‍💻 All of my projects are available at [https://github.com/YasmineRico](https://github.com/YasmineRico)
 
 - 📫 How to reach me **ricolyasmine@gmail.com**
 
