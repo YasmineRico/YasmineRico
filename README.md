@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full Stack Developer from San Antonio, Texas</h3>
 
 - 🔭 I’m currently working on [Node JS Blog](https://github.com/YasmineRico/node-js-blog)
-- Also completing daily JS Challenges from Scrimbas 24 days of javascript [Javascritpmas](https://github.com/YasmineRico/Javascriptmas)
+
+- 🎄Daily JS Challenges from Scrimbas 24 days of javascript [Javascritpmas](https://github.com/YasmineRico/Javascriptmas)
 
 - 🌱 I’m currently learning **Docker, Node.js, Express**
 
