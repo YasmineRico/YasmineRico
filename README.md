@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Node JS Blog](https://github.com/YasmineRico/node-js-blog)
 
-- 🎄Daily JS Challenges from Scrimbas 24 days of javascript [Javascritpmas](https://github.com/YasmineRico/Javascriptmas)
+- 🎄 Daily JavaScript Challenges from Scrimbas 24 days of [Javascritpmas](https://github.com/YasmineRico/Javascriptmas)
 
 - 🌱 I’m currently learning **Docker, Node.js, Express**
 
