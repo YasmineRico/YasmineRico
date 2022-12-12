@@ -1,9 +1,10 @@
 <h1 align="center">Hi there 👋🏽 <br> I'm Yasmine Rico 🦋✨</h1>
 <h3 align="center">A passionate Full Stack Developer from San Antonio, Texas</h3>
 
-- 🔭 I’m currently working on [Learning-Node.js](https://github.com/YasmineRico/Learning-Node.js)
+- 🔭 I’m currently working on [Node JS Blog](https://github.com/YasmineRico/node-js-blog)
+- Also completing daily JS Challenges from Scrimbas 24 days of javascript [Javascritpmas](https://github.com/YasmineRico/Javascriptmas)
 
-- 🌱 I’m currently learning **Docker, MongoDB, Node.js, React, Express**
+- 🌱 I’m currently learning **Docker, Node.js, Express**
 
 - 👩🏽‍💻 All of my projects are available at [https://github.com/YasmineRico](https://github.com/YasmineRico)
 
