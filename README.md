@@ -7,9 +7,10 @@
 
 - 🌱 I’m currently learning **Docker, Node.js, Express**
 
-- 👩🏽‍💻 All of my projects are available at [https://github.com/YasmineRico](https://github.com/YasmineRico)
+- 👩🏽‍💻 All of my projects are available at [My Github](https://github.com/YasmineRico)
 
-- 📫 How to reach me **ricolyasmine@gmail.com**
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yasminerico/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
